@@ -1,1 +1,2 @@
-# Cybersecurity-Portfolio
+# Professional Statement
+I am a passionate and dedicated aspiring cybersecurity analyst with a strong interest in information security. I value protecting digital assets, following ethical security practices, and learning about new cyber threats. I am committed to keeping a strong security posture and protecting sensitive information from unauthorized access.
