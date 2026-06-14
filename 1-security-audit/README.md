@@ -11,8 +11,8 @@ Conducted an internal security audit for a fictional company
 - GDPR partially met
 
 ## Files
-- controls-compliance-checklist.pdf
-- scope-and-risk-assessment.pdf
+- Controls-compliance-checklist.pdf
+- Scope-goals-risk-assessment.pdf
 
 ## Skills Demonstrated
 Security auditing · NIST CSF · PCI DSS · GDPR · SOC
